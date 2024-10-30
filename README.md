@@ -31,4 +31,4 @@ Enjoy a seamless shopping experience with all the essentials covered, from brows
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/GreenHaven.git
+   git clone https://github.com/pankajkumar53/GreenHaven.git
