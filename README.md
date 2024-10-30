@@ -21,8 +21,6 @@ Enjoy a seamless shopping experience with all the essentials covered, from brows
 - **Jetpack Compose**: For building native UI components.
 - **Firebase**: For authentication and database management.
 - **Koin**: For dependency injection.
-- **Room Database**: To store favorite plants.
-- **Retrofit**: For API calls.
 - **DataStore**: For managing user preferences.
 
 ## Installation
