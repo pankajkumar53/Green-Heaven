@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="App.Starting.Theme" parent="Theme.SplashScreen">
+        <!-- Set background color to white -->
+        <item name="windowSplashScreenBackground">@color/plantGreen</item>
+
+        <!-- Set the splash screen icon -->
+        <item name="windowSplashScreenAnimatedIcon">@drawable/icon_expanded</item>
+
+        <!-- Set the post-splash screen theme -->
+        <item name="postSplashScreenTheme">@style/Theme.GreenHaven</item>
+
+    </style>
+</resources>
+
+

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "599351581819",
+    "firebase_url": "https://green-haven-24987-default-rtdb.firebaseio.com",
+    "project_id": "green-haven-24987",
+    "storage_bucket": "green-haven-24987.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599351581819:android:b65cc28e17de5e3be656de",
+        "android_client_info": {
+          "package_name": "com.pandroid.greenhaven"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599351581819-6hk14i7o6empdasakea2cjq1cqih4r5r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjRct9DXs-xFs0CzMFAfGAmK1si4oJYDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599351581819-6hk14i7o6empdasakea2cjq1cqih4r5r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
