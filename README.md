@@ -23,6 +23,8 @@ Enjoy a seamless shopping experience with all the essentials covered, from brows
 - **Koin**: For dependency injection.
 - **DataStore**: For managing user preferences.
 
+![UI Image](https://github.com/pankajkumar53/Green-Heaven/blob/13e9541a7359d93d27d8c6f80abf9b7f43c8ed69/ui%20img1.png)
+
 ## Installation
 
 1. **Clone the Repository**:
